@@ -1,0 +1,8 @@
+# 每台机器各自的实机配置，不入库（模板见 machine.env.example-zen5）
+machine.env
+
+# 运行时产物
+*.log
+server-ns.pid
+__pycache__/
+.mon
